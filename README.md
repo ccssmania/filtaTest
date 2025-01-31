@@ -14,7 +14,7 @@ This repository was created for a challenge test from **Filta**. The test was fo
    docker compose up --build -d
    ```
 2. **Access the running container:**
-
+- You need to run laravel commands they should be run inside the container
 ```sh
 docker exec -it laravel_filta_test bash
 ```
