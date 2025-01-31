@@ -24,6 +24,7 @@ The root path / is mainly for the first task.
 For the second task, use the following credentials to log in:
 Email: test@example.com
 Password: password
+in the path /login you will find the form to login into the app
 To manage products (add, edit, remove), log in and navigate to the appropriate section.
 To view public products, visit:
 ```sh http://localhost:{your-docker-port}/products/show-public ```sh
